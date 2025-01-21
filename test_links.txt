@@ -1,0 +1,5 @@
+example
+test
+https://www.iana.org/domains/example
+/page2.html
+/about.html
