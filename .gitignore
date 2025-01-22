@@ -38,6 +38,7 @@ ENV/
 
 # Project specific
 *.log
+logs/
 chromedriver*
 google-chrome*
 output/*.csv
